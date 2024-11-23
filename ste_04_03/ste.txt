@@ -1,0 +1,32 @@
+PlayerID:   ste_1_A #frames:  691 
+Features:               poseLengthMetric gazeLengthMetric distanceFromMonitorMetric lEyeVerticalMetric rEyeVerticalMetric mouthVerticalMetric mouthHorizontalMetric lEyeInnerToLEyebrowInnerMetric lEyeInnerToLEyebrowOuterMetric rEyeInnerToREyebrowInnerMetric rEyeInnerToREyebrowOuterMetric
+mean_for_entire_video:   0.017912 4.076549 0.017582 0.639683 0.350169 2.275858 3.454061 0.763432 1.059905 0.919694 0.747807 
+mean_for_last100frames:  0.010491 3.149757 0.014098 0.285362 0.158805 2.623581 0.866433 0.739678 1.296470 0.583819 0.675185 
+PlayerID:   ste_1_B #frames:  931 
+Features:               poseLengthMetric gazeLengthMetric distanceFromMonitorMetric lEyeVerticalMetric rEyeVerticalMetric mouthVerticalMetric mouthHorizontalMetric lEyeInnerToLEyebrowInnerMetric lEyeInnerToLEyebrowOuterMetric rEyeInnerToREyebrowInnerMetric rEyeInnerToREyebrowOuterMetric
+mean_for_entire_video:   0.025155 1.922142 0.021289 0.400147 0.238995 2.423055 2.784114 0.583725 0.913269 0.537210 0.568697 
+mean_for_last100frames:  0.015252 0.000000 0.018011 0.165210 0.101771 1.536449 0.510214 0.241707 0.276440 0.037933 0.212803 
+PlayerID:   ste_2_A #frames:  802 
+Features:               poseLengthMetric gazeLengthMetric distanceFromMonitorMetric lEyeVerticalMetric rEyeVerticalMetric mouthVerticalMetric mouthHorizontalMetric lEyeInnerToLEyebrowInnerMetric lEyeInnerToLEyebrowOuterMetric rEyeInnerToREyebrowInnerMetric rEyeInnerToREyebrowOuterMetric
+mean_for_entire_video:   0.011427 1.854806 0.011569 0.157885 0.145438 1.271885 0.541397 0.318183 0.456048 0.263990 0.259362 
+mean_for_last100frames:  0.020770 5.279943 0.021842 0.706146 0.505301 1.684015 1.422841 0.892605 1.682584 0.614974 0.496188 
+PlayerID:   ste_2_B #frames:  1428 
+Features:               poseLengthMetric gazeLengthMetric distanceFromMonitorMetric lEyeVerticalMetric rEyeVerticalMetric mouthVerticalMetric mouthHorizontalMetric lEyeInnerToLEyebrowInnerMetric lEyeInnerToLEyebrowOuterMetric rEyeInnerToREyebrowInnerMetric rEyeInnerToREyebrowOuterMetric
+mean_for_entire_video:   0.017015 2.128679 0.014683 0.247802 0.350133 2.014599 1.419952 0.653642 0.861398 1.371753 0.417263 
+mean_for_last100frames:  0.037539 4.115979 0.026106 0.601550 2.659887 7.241657 1.988488 3.303256 3.213602 14.075199 1.092210 
+PlayerID:   ste_3_A #frames:  1110 
+Features:               poseLengthMetric gazeLengthMetric distanceFromMonitorMetric lEyeVerticalMetric rEyeVerticalMetric mouthVerticalMetric mouthHorizontalMetric lEyeInnerToLEyebrowInnerMetric lEyeInnerToLEyebrowOuterMetric rEyeInnerToREyebrowInnerMetric rEyeInnerToREyebrowOuterMetric
+mean_for_entire_video:   0.030622 3.124004 0.027666 0.258836 0.434452 3.083483 1.255238 0.907575 0.809260 0.746900 0.640991 
+mean_for_last100frames:  0.065832 5.284942 0.024311 0.605053 0.808310 6.699266 1.685272 2.214236 2.689946 1.604850 0.950259 
+PlayerID:   ste_3_B #frames:  906 
+Features:               poseLengthMetric gazeLengthMetric distanceFromMonitorMetric lEyeVerticalMetric rEyeVerticalMetric mouthVerticalMetric mouthHorizontalMetric lEyeInnerToLEyebrowInnerMetric lEyeInnerToLEyebrowOuterMetric rEyeInnerToREyebrowInnerMetric rEyeInnerToREyebrowOuterMetric
+mean_for_entire_video:   0.034294 2.590703 0.020607 0.357478 0.351370 3.659745 1.020804 0.915474 1.239364 0.736328 0.628820 
+mean_for_last100frames:  0.137658 3.055966 0.039944 0.800880 1.037928 14.959297 2.268025 4.053490 3.906087 2.612843 1.733312 
+PlayerID:   ste_4_A #frames:  556 
+Features:               poseLengthMetric gazeLengthMetric distanceFromMonitorMetric lEyeVerticalMetric rEyeVerticalMetric mouthVerticalMetric mouthHorizontalMetric lEyeInnerToLEyebrowInnerMetric lEyeInnerToLEyebrowOuterMetric rEyeInnerToREyebrowInnerMetric rEyeInnerToREyebrowOuterMetric
+mean_for_entire_video:   0.042451 3.385419 0.026854 0.466400 0.557277 2.836874 2.361220 1.067989 1.513704 0.837118 1.015969 
+mean_for_last100frames:  0.055651 1.394806 0.033924 0.348644 0.337888 4.596883 4.451880 2.558837 2.972446 1.009136 1.229654 
+PlayerID:   ste_4_B #frames:  1130 
+Features:               poseLengthMetric gazeLengthMetric distanceFromMonitorMetric lEyeVerticalMetric rEyeVerticalMetric mouthVerticalMetric mouthHorizontalMetric lEyeInnerToLEyebrowInnerMetric lEyeInnerToLEyebrowOuterMetric rEyeInnerToREyebrowInnerMetric rEyeInnerToREyebrowOuterMetric
+mean_for_entire_video:   0.024942 2.515960 0.017226 0.314899 0.268431 1.249726 1.259887 0.564986 0.629075 0.458224 0.665405 
+mean_for_last100frames:  0.041372 8.545687 0.026762 0.868967 0.559605 2.282818 3.413459 1.098056 1.236449 0.929463 0.852325 
